@@ -1,6 +1,6 @@
 <?php
 
-namespace hicps;
+namespace app;
 
 class hi{
     function sayhi(){
