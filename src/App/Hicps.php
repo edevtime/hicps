@@ -2,8 +2,8 @@
 
 namespace App;
 
-class Hi{
-    function sayhi(){
+class Hicps{
+    public function sayhi(){
         return 'hi cps';
     }
 }
