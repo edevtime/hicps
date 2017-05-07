@@ -1,8 +1,8 @@
 <?php
 
-namespace app;
+namespace App;
 
-class hi{
+class Hi{
     function sayhi(){
         return 'hi cps';
     }
