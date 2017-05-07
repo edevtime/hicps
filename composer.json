@@ -1,0 +1,13 @@
+{
+    "name": "edevtime/hicps",
+    "description": "the first composer demo",
+    "authors": [
+        {
+            "name": "hungnk",
+            "email": "hungnk@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
